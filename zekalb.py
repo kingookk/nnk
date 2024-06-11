@@ -206,7 +206,7 @@ mody9 = """**مرحبا بك في قسم تحويل النقاط
 • @XNSEX21BOT - `/pt4 + عدد النقاط`**"""
 
 
-mody10 = """ze1 = TelegramClient(StringSession(session), 10871792, 6f3f84d0b392900e09b0aed186470890)
+mody10 = """ze1 = TelegramClient(BAA2PWF0NzFfclMUvjOFp-_51yDSUtszVVK6Hf9LX70Ske25RYdq2E8oEOyo-hxYyGRSq6CKPZCkNXFDGfGmleFCl00VQ1He5N096rs8G_FvL8eLjNaNMOHuMKV139FAkRa3lo4bKetPxtpiHow3KMQXuSM_gKXC1J9vHToSRr7g3mM-yjFO_szR2sZq4X9FaaPfLYI6T7f-YonmQSX2YKYGZ41iJDBEZU5ojQSLEB0hjBvkOY2IDeBcobPEgj9wQ8OQt5ZsFI3_R4axRqX-6ejQK_wsAUETGcsJkKZaNjaBglkVh72v5THom5MFrB0hyZEL-QlkXM7_L3DozsWlZm2wU3lxigA, 10871792, 6f3f84d0b392900e09b0aed186470890)
 
 
 
