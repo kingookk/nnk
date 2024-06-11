@@ -206,7 +206,7 @@ mody9 = """**مرحبا بك في قسم تحويل النقاط
 • @XNSEX21BOT - `/pt4 + عدد النقاط`**"""
 
 
-mody10 = """ze1 = TelegramClient(StringSession(session), api_id, api_hash)
+mody10 = """ze1 = TelegramClient(StringSession(session), 10871792, 6f3f84d0b392900e09b0aed186470890)
 
 
 
